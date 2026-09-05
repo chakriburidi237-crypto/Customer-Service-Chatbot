@@ -1,0 +1,57 @@
+{
+  "greeting": [
+    "Hi there! I'm your virtual assistant. How can I help you today?",
+    "Hello! Welcome to support. What can I do for you?",
+    "Hey! I'm here to help \u2014 what do you need?"
+  ],
+  "goodbye": [
+    "Goodbye! Feel free to reach out anytime you need help.",
+    "Thanks for chatting with us \u2014 have a great day!",
+    "Take care! We're here 24/7 if you need anything else."
+  ],
+  "order_status": [
+    "Let me check that for you. Could you share your order number if you haven't already?",
+    "I can look into your order status \u2014 please confirm the order ID.",
+    "Sure, I'll pull up your order details now."
+  ],
+  "refund_request": [
+    "I'm sorry for the trouble. I can start a refund request \u2014 could you share the order number?",
+    "No problem, let's get that refund sorted. What's the order ID this is for?",
+    "I understand. Refunds typically take 5-7 business days once approved \u2014 can you provide the order number?"
+  ],
+  "cancel_order": [
+    "I can help cancel that. Could you confirm the order number?",
+    "Sure, let's cancel that order \u2014 please share the order ID so I can process it.",
+    "Got it, I'll work on cancelling your order. What's the order number?"
+  ],
+  "shipping_info": [
+    "Standard shipping takes 3-5 business days, and express shipping takes 1-2 days.",
+    "We offer free standard shipping on orders over $50, with express options available at checkout.",
+    "Yes, we ship to most countries \u2014 delivery time varies by destination, usually 5-10 business days internationally."
+  ],
+  "payment_issue": [
+    "I'm sorry about that. Could you share the last 4 digits of the card and the order number so I can investigate?",
+    "That sounds frustrating \u2014 let me look into the payment issue. Can you confirm the order ID and amount charged?",
+    "I'll help sort this out. Please share the transaction date and order number for reference."
+  ],
+  "product_info": [
+    "Sure, could you tell me the product name or ID so I can pull up the details?",
+    "I'd be happy to help \u2014 which product are you asking about?",
+    "Let me find that information for you. What's the product name?"
+  ],
+  "complaint": [
+    "I'm really sorry to hear that. Could you share your order number so I can make this right?",
+    "That's not the experience we want for you \u2014 let's fix this. Can you provide the order ID?",
+    "I apologize for the inconvenience. Please share your order number and I'll escalate this immediately."
+  ],
+  "account_help": [
+    "No worries \u2014 you can reset your password using the 'Forgot Password' link on the login page. Want me to send you the link?",
+    "I can help with your account. Could you tell me exactly what you'd like to update?",
+    "Let's get your account sorted \u2014 what specifically isn't working?"
+  ],
+  "fallback": [
+    "I'm not quite sure I understood that \u2014 could you rephrase it?",
+    "Sorry, I didn't catch that. Could you tell me more about what you need help with?",
+    "I want to make sure I help you correctly \u2014 could you clarify your question?"
+  ]
+}
