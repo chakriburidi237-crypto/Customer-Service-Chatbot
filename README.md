@@ -2,7 +2,6 @@
 
 > **"Intelligent Support. Instant Resolution. Powered by Modern NLP."**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-009688.svg)](https://fastapi.tiangolo.com/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.5%2B-F7931E.svg)](https://scikit-learn.org/)
@@ -150,6 +149,5 @@ CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
 
 ---
 
-## 📄 License
+## 📄 License and Copyright\n\nAll rights reserved © 2026 Chakradhar Buridi.
 
-MIT License © 2026 Chakradhar Buridi. Built with pride for open-source conversational AI.
